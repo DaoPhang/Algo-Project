@@ -1,1 +1,8 @@
-"*.gdoc" 
+# Ignore everything
+*
+
+# Except the notebook
+!Algo_Project_OCC8_Survivors.ipynb
+
+# Keep .gitignore itself tracked
+!.gitignore
