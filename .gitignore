@@ -4,5 +4,9 @@
 # Except the notebook
 !Algo_Project_OCC8_Survivors.ipynb
 
+# Except the Datasets folder and its contents
+!Datasets/
+!Datasets/**
+
 # Keep .gitignore itself tracked
 !.gitignore
