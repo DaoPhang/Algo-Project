@@ -1,8 +1,10 @@
 # Ignore everything
 *
 
-# Except the notebook
+# Except the notebooks
 !Algo_Project_OCC8_Survivors.ipynb
+!Part2_Double_Agent_Registry.ipynb
+!Part7_Phantom_Dice.ipynb
 
 # Except the Datasets folder and its contents
 !Datasets/
